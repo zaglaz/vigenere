@@ -1,5 +1,4 @@
 import sys
-import string
 
 ASCII_OFFSET = 97
 ASCII_LIMIT = 122
